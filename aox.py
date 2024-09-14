@@ -9,11 +9,11 @@ except ImportError:
 
 banner = """
 
- █████╗ ██╗  ██╗██████╗  Author : Ms.ambari
-██╔══██╗╚██╗██╔╝██╔══██╗ Date   : 2018-12-01
+ █████╗ ██╗  ██╗██████╗  Author : Dynamo
+██╔══██╗╚██╗██╔╝██╔══██╗ Date   : 2024-01-01
 ███████║ ╚███╔╝ ██║  ██║ Tools  : aoXdeface V.1.0
-██╔══██║ ██╔██╗ ██║  ██║ Github : /Ranginang67
-██║  ██║██╔╝ ██╗██████╔╝ youtube: Ms.ambari
+██╔══██║ ██╔██╗ ██║  ██║ Github : /dynamogamesofficial
+██║  ██║██╔╝ ██╗██████╔╝ youtube: Dynamo Games
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ 
 """
 
